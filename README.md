@@ -6,3 +6,5 @@
 4) You can doe this in a templates directory as json - See 
 https://github.com/openshift/django-ex/blob/master/openshift/templates/django.json
 example
+## REQUIREMENTS
+S2I without any parameters - needed a setup.py in the project REPO to be able to get / install flask Python module.
